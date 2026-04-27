@@ -2,3 +2,5 @@ This is my file one of git repo
 config waiting check
 
 detected and fix with this line
+
+2028 footer note added
