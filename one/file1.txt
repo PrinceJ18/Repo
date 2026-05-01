@@ -3,8 +3,6 @@ config waiting check
 
 detected and fix with this line
 
-<<<<<<< HEAD
 2028 footer note added
-=======
-2024 is coming
->>>>>>> bug-fix
+
+Another marketing session section
